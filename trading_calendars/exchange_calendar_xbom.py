@@ -324,6 +324,7 @@ precomputed_bse_holidays = pd.to_datetime([
     '2020-11-16',
     '2020-11-30',
     '2020-12-25',
+    '2021-01-26',
 ])
 
 
